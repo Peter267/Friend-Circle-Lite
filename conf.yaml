@@ -9,7 +9,7 @@
 spider_settings:
   enable: true
   json_url: "https://fcirclejson.zeabur.app/friend.json"
-  article_count: 5
+  article_count: 10
   merge_result:
     enable: false
     merge_json_url: "https://fc.liushen.fun"
@@ -21,8 +21,8 @@ spider_settings:
 #   subject:            邮件主题
 #   body_template:      邮件正文的 HTML 模板文件
 email_push:
-  enable: false
-  to_email: recipient@example.com
+  enable: true
+  to_email: miaomiaoweiqi@163.com
   subject: "今天的 RSS 订阅更新"
   body_template: "rss_template.html"
 
@@ -50,7 +50,7 @@ rss_subscribe:
 #   port：              SMTP 端口号
 #   use_tls：           是否使用 tls 加密
 smtp:
-  email: 3162475700@qq.com
+  email: wujingbo12@qq.com
   server: smtp.qq.com
   port: 587
   use_tls: true
