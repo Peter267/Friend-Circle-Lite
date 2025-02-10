@@ -8,7 +8,7 @@
 #     marge_json_path:  请填写网络地址的json文件，用于合并，不带空格！！！
 spider_settings:
   enable: true
-  json_url: "https://fcirclejson.zeabur.app/friend.json"
+  json_url: "https://fcircle.peter267.us.kg/friend.json"
   article_count: 10
   merge_result:
     enable: false
