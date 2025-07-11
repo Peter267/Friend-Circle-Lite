@@ -62,5 +62,3 @@ smtp:
 specific_RSS:
    - name: "阮一峰"
      url: "http://www.ruanyifeng.com/blog/atom.xml"
-   - name: "Jonas"
-     url: "https://www.laogou717.com/atom.xml" 
