@@ -62,3 +62,5 @@ smtp:
 specific_RSS:
    - name: "阮一峰"
      url: "http://feeds.feedburner.com/ruanyifeng"
+   - name: "老狗"
+     url: "https://www.laogou666.com/atom.xml"
