@@ -64,3 +64,5 @@ specific_RSS:
      url: "http://feeds.feedburner.com/ruanyifeng"
    - name: "老狗"
      url: "https://www.laogou666.com/atom.xml"
+   - name: "小众软件"
+     url: "https://feeds.appinn.com/appinns"
