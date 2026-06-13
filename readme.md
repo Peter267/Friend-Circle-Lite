@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> 本版本已停止更新。
+> 2.0版本请前往[此处](https://github.com/Peter267/Friend-Circle-Lite-2.0)。
+
 <div align="center">
   <img src="./static/favicon.ico" width="200" alt="fclite">
 
